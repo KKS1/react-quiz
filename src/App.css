@@ -1,0 +1,51 @@
+
+/* TODO: Separate the stylesheets in approriate components classes and folders */
+
+.App {
+  max-width: 500px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-main {
+  min-height: 200px;
+}
+
+.App-footer {
+  height: 100px;
+}
+
+.Results-header {
+  height: 50px;
+}
+
+.Results-list {
+  padding: 15px;
+  list-style-type:none;
+  text-align: left;
+}
+
+.Results-list-item {
+  line-height: 1.5em;
+  padding: 10px;
+}
+
+
